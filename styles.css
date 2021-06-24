@@ -1,0 +1,24 @@
+body{
+  background-color:#FFC288;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+h1{
+  color:red;
+  font-size: 50px;
+}
+
+h2{
+  color:green;
+}
+
+hr{
+ border-style: none;
+ border-top-style: dotted;
+ border-color: grey;
+ border-width: 15px;
+ width: 20%;
+}
